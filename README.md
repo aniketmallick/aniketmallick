@@ -21,6 +21,8 @@
 
 ## Track record
 
-C3 AI (2024–2026) — glass-box forecast explainability, 33% stockout reduction · Oracle (2022–2024) — systems serving 1B+ users · ACM-ICPC regionals (2019–20) · B.Tech CSE, IEM Kolkata
+· C3 AI (2024–2026) — glass-box forecast explainability, 33% stockout reduction 
+· Oracle (2022–2024) — systems serving 1B+ users 
+· ACM-ICPC regionals (2019–20) · B.Tech CSE, IEM Kolkata(CGPA: 9.14)
 
 <sub>This profile is a ledger: claims are dated and linked; private items are labeled, not embellished.</sub>
