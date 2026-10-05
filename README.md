@@ -10,7 +10,7 @@
 
 [<img src="https://img.youtube.com/vi/eBQKAU_5WWM/hqdefault.jpg" width="480" alt="Watch: a robot arm hands me a screwdriver — with and without a trust layer (53 s)">](https://youtu.be/eBQKAU_5WWM)
 
-<sub>Demonstration on an SO-101 hobby arm · plastic prop tool · prop hand in the layer-off clip · [code and logs](https://github.com/aniketmallick/trust-layer-demo)</sub>
+<sub>Demonstration on an SO-101 hobby arm · a real screwdriver and my own hand · [code and logs](https://github.com/aniketmallick/trust-layer-demo)</sub>
 
 ## Shipped
 
